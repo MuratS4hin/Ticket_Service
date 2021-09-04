@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvpZ9fJScAvYPlnkbY8TTb5LUpsVwydWOH3421V4fc1Q1rlYmD4b4P9a437DoqDnTiW9O5DQS1EXFuLyijvnbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahmu\\OneDrive\\Masaüstü\\OKUL\\STAJ\\Tesojer\\C#\\SQLite database\\Ticket_Class\\Ticket_Class\\Ticket_Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahmu\\.nuget\\packages\\microsoft.data.sqlite\\3.1.4\\microsoft.data.sqlite.3.1.4.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.4\\microsoft.data.sqlite.core.3.1.4.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\sahmu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
